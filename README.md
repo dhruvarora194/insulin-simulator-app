@@ -16,11 +16,11 @@ This Insulin Simulator App is designed to assist both newly diagnosed diabetics 
 
 ```bash
 git clone https://github.com/yourusername/insulin-simulator-app.git
-cd insulin-simulator-app```
+cd insulin-simulator-app
 
 2. Create a virtual environment and activate it:
 
-```bash
+bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
