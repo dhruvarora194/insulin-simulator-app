@@ -1,0 +1,7 @@
+streamlit
+openai
+Pillow
+pydexcom
+matplotlib
+pandas
+docx2txt
