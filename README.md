@@ -50,12 +50,12 @@ Run the Streamlit app:
 
 ```bash
 streamlit run app.py
+ ```
 
+## How it works
 
-**## How it works**
 Step 1: Input Data
-Users input their Insulin to Carb Ratio (I
-), Correction Factor, and activity level. They can also enter the name of the food item they plan to eat or upload a recipe file.
+Users input their Insulin to Carb Ratio (I:C), Correction Factor, and activity level. They can also enter the name of the food item they plan to eat or upload a recipe file.
 
 Step 2: Real-Time Glucose Data
 The app integrates with the Dexcom G6 using the pydexcom library to fetch the latest blood sugar readings. This real-time data is crucial for accurate insulin dose calculations.
