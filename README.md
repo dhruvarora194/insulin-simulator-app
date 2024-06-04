@@ -69,4 +69,21 @@ The app calculates the required insulin dose based on the user’s input and the
 Step 5: Personalized Tips
 Depending on the current blood sugar level, the app offers personalized tips to help maintain optimal glucose control.
 
+## Contributing
+Feel free to open issues or submit pull requests if you have any suggestions for improvements.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+OpenAI for the GPT-4 model.
+Dexcom for the CGM integration.
+Streamlit for the web app framework.
+
+##Contact
+For any inquiries or feedback, please contact Dhruv Arora at dhruvarora1810@gmail.com.
+The app calculates the required insulin dose based on the user’s input and the real-time glucose data. It also provides advice on when to inject the insulin based on the type of insulin used.
+
+
+
 Screenshots
