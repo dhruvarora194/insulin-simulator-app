@@ -50,3 +50,23 @@ Run the Streamlit app:
 
 ```bash
 streamlit run app.py
+
+
+**## How it works**
+Step 1: Input Data
+Users input their Insulin to Carb Ratio (I
+), Correction Factor, and activity level. They can also enter the name of the food item they plan to eat or upload a recipe file.
+
+Step 2: Real-Time Glucose Data
+The app integrates with the Dexcom G6 using the pydexcom library to fetch the latest blood sugar readings. This real-time data is crucial for accurate insulin dose calculations.
+
+Step 3: Nutritional Information
+Using OpenAI’s GPT-4, the app extracts detailed nutritional information about the food item, including carbohydrates, protein, fat, and more.
+
+Step 4: Insulin Dose Calculation
+The app calculates the required insulin dose based on the user’s input and the real-time glucose data. It also provides advice on when to inject the insulin based on the type of insulin used.
+
+Step 5: Personalized Tips
+Depending on the current blood sugar level, the app offers personalized tips to help maintain optimal glucose control.
+
+Screenshots
