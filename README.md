@@ -49,7 +49,7 @@ This Insulin Simulator App is designed to assist both newly diagnosed diabetics 
 Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
  ```
 
 ## How it works
