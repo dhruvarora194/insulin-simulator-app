@@ -69,6 +69,12 @@ The app calculates the required insulin dose based on the user’s input and the
 Step 5: Personalized Tips
 Depending on the current blood sugar level, the app offers personalized tips to help maintain optimal glucose control.
 
+## Screenshots (from the app)
+![image](https://github.com/dhruvarora194/insulin-simulator-app/assets/101364857/43715190-f8f9-484c-9d76-856be0d37eab)
+![image](https://github.com/dhruvarora194/insulin-simulator-app/assets/101364857/d2be38ba-f8cc-459c-94fa-cf65ae78b946)
+![image](https://github.com/dhruvarora194/insulin-simulator-app/assets/101364857/5f823a16-3bd2-418a-bb6e-160bbd7866cd)
+![image](https://github.com/dhruvarora194/insulin-simulator-app/assets/101364857/cb41b3df-9b1e-4af0-a48e-70c5fb98eb83)
+
 ## Contributing
 Feel free to open issues or submit pull requests if you have any suggestions for improvements.
 
